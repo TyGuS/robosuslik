@@ -14,8 +14,6 @@ Synthesis of Heap-Manipulating Programs from Separation Logic Specifications wit
 The details of Borrowing Synthetic Separation Logic (BoSSL) can be found in the
 [accompanying draft paper](https://ilyasergey.net/papers/robosuslik-draft.pdf).
 
-## Usage
-
 ## Setup and Build
 
 ### Requirements 
