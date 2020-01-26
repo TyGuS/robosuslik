@@ -1,7 +1,7 @@
 # Borrowing Synthetic Separation Logic
 
 [![Build Status](https://api.travis-ci.org/TyGuS/robosuslik.svg?branch=master)](https://travis-ci.org/TyGuS/robosuslik)
-[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://raw.githubusercontent.com/TyGuS/suslik/master/LICENSE)
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://raw.githubusercontent.com/TyGuS/robosuslik/master/LICENSE)
 
 Synthesis of Heap-Manipulating Programs from Separation Logic Specifications with Read-Only Borrows.
 
