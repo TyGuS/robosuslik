@@ -2,7 +2,6 @@
 
 [![Build Status](https://api.travis-ci.org/TyGuS/suslik.svg?branch=borrows)](https://travis-ci.org/TyGuS/suslik)
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://raw.githubusercontent.com/TyGuS/suslik/master/LICENSE)
-[![DOI](https://zenodo.org/badge/101061595.svg)](https://zenodo.org/badge/latestdoi/101061595)
 
 Synthesis of Heap-Manipulating Programs from Separation Logic
 Specifications with Read-Only Borrows.
