@@ -3,8 +3,7 @@
 [![Build Status](https://api.travis-ci.org/TyGuS/robosuslik.svg?branch=master)](https://travis-ci.org/TyGuS/robosuslik)
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://raw.githubusercontent.com/TyGuS/suslik/master/LICENSE)
 
-Synthesis of Heap-Manipulating Programs from Separation Logic
-Specifications with Read-Only Borrows.
+Synthesis of Heap-Manipulating Programs from Separation Logic Specifications with Read-Only Borrows.
 
 <p align="center">
   <a href = "https://ilyasergey.net/papers/robosuslik-draft.pdf"><img src="https://github.com/TyGuS/suslik/blob/master/robosuslik-logo.png" width="200" height="150"></a>
