@@ -1,7 +1,7 @@
 
 organization := "org.tygus"
 
-name := "suslik"
+name := "robosuslik"
 
 version := "0.1.0"
 
