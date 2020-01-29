@@ -7,13 +7,13 @@
 Synthesis of Heap-Manipulating Programs from Separation Logic Specifications with Read-Only Borrows.
 
 <p align="center">
-  <a href = "https://ilyasergey.net/papers/robosuslik-draft.pdf"><img src="https://github.com/TyGuS/suslik/blob/master/robosuslik-logo.png" width="200" height="150"></a>
+  <a href = "https://ilyasergey.net/papers/robosuslik-esop20.pdf"><img src="https://github.com/TyGuS/suslik/blob/master/robosuslik-logo.png" width="200" height="150"></a>
   </p>
 
 ## Theory Behind the Tool 
 
 The details of Borrowing Synthetic Separation Logic (BoSSL) can be found in the
-[accompanying draft paper](https://ilyasergey.net/papers/robosuslik-esop20.pdf).
+[accompanying ESOP'20 paper](https://ilyasergey.net/papers/robosuslik-esop20.pdf).
 
 ## Setup and Build
 
